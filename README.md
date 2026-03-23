@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Prajakta Phule
 
-<!--
-**phulepraj/phulepraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer (Django)  
+🎓 12+ Years Teaching Experience  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Django
+- HTML, CSS
+- SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Building portfolio projects
+- Preparing for Python Developer roles
+
+## 📫 Contact
+- Open to job opportunities
